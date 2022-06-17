@@ -1,6 +1,6 @@
 import './style.css';
 import React, { Component } from 'react';
-import People from '.components/People';
+import People from './components/People';
 
 class App extends Component {
   render() {
